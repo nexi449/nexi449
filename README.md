@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Nexi499
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2FC4F6&width=550&lines=Some+guy+from+Germany;Minecraft+Mod+Developer;Building+mods+and+tools;Turning+ideas+into+code)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Alerta+alerta+antifascista;161)](https://git.io/typing-svg)
 ---
 
 ### 🧠 Languages & Markup
