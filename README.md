@@ -30,6 +30,6 @@
 
 ### 📫 Contact
 
-- GitHub: [@Nexi499](https://github.com/Nexi499)
-- Modrinth: [Nexi499](https://modrinth.com/user/Nexi499)
+- GitHub: [@Nexi499](https://github.com/nexi499)
+- Modrinth: [Nexi499](https://modrinth.com/user/nexi499)
 - Portfolio: [Nexi499](https://nexi499.de)
