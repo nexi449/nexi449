@@ -1,7 +1,5 @@
 # nexi499
 
-Developer focused on software, web technologies, and Minecraft development.
-
 [Portfolio](https://nexi499.de) · [GitHub](https://github.com/nexi449) · [Modrinth](https://modrinth.com/user/nexi499) · [Cursforge](https://www.curseforge.com/members/nexi499/projects)
 
 ## Languages
